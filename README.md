@@ -16,11 +16,11 @@
 
 ### 📱 Hakkımda Kısaca
 
-Merhaba! Ben **[Gül Karataş]**, bir yazılım mühendisiyim ve iOS uygulama geliştirme alanında kendimi geliştiriyorum. Swift ve SwiftUI başta olmak üzere iOS ekosisteminde güçlü bir bilgi birikimine sahibim. Aynı zamanda yazılım mimarileri ve mobil uygulama performans optimizasyonu konularına da ilgi duyuyorum.
+Merhaba! Ben **[Gül Karataş]**, bir yazılım mühendisiyim ve iOS uygulama geliştirme alanında kendimi geliştiriyorum.Aynı zamanda yazılım mimarileri ve mobil uygulama performans optimizasyonu konularına da ilgi duyuyorum.
 
-- 🌱 Şu anda **SwiftUI** ve **Combine** üzerinde çalışıyorum.
+- 🌱 Şu anda **SwiftUIKIT** ve **SwiftUI** üzerinde çalışıyorum.
 - 💼 Hedefim, **App Store**'a başarılı projeler yüklemek ve mobil dünyada fark yaratmak.
-- 💬 Soruların olursa bana [buradan](mailto:glsrn_7872@outlook.com) ulaşabilirsin.
+- 💬 Soruların olursa bana [buradan](mailto:glserenkarts@gmail.com) ulaşabilirsin.
 
 ---
 
@@ -49,8 +49,8 @@ Merhaba! Ben **[Gül Karataş]**, bir yazılım mühendisiyim ve iOS uygulama ge
 
 ### 🔗 Bağlantılarım
 
-- LinkedIn: [linkedin-adresin](https://www.linkedin.com/in/linkedin-adresin/)
-- Medium: [medium-kullanici-adi](https://medium.com/@medium-kullanici-adi)
+- LinkedIn: [linkedin-adresin]([https://www.linkedin.com/in/linkedin-adresin/](https://www.linkedin.com/in/g%C3%BCl-karata%C5%9F-29a210263))
+- Medium: [medium-kullanici-adi]([https://medium.com/@medium-kullanici-adi](https://medium.com/@glserenkarts))
 
 ---
 
