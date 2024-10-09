@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=kullanici-adin&label=Profil%20Ziyaret&color=0e75b6&style=flat" alt="kullanici-adin" />
 </p>
 
-<p align="center">
- 
-  <a href="https://medium.com/@medium-kullanici-adi" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" />
-  </a>
-</p>
 
 ---
 
