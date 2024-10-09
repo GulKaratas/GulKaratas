@@ -20,17 +20,15 @@ Merhaba! Ben **[Gül Karataş]**, bir yazılım mühendisiyim ve iOS uygulama ge
 
 - 🌱 Şu anda **SwiftUIKIT** ve **SwiftUI** üzerinde çalışıyorum.
 - 💼 Hedefim, **App Store**'a başarılı projeler yüklemek ve mobil dünyada fark yaratmak.
-- 💬 Soruların olursa bana [buradan](mailto:glserenkarts@gmail.com) ulaşabilirsin.
+- 💬 Soruların olursa bana [glserenkarts@gmail.com](mailto:glserenkarts@gmail.com) ulaşabilirsin.
 
 ---
 
 ### 🛠️ Kullandığım Teknolojiler ve Araçlar
 
-- **iOS Geliştirme:** Swift, SwiftUI, UIKit, Combine
-- **Veritabanı:** Core Data, SQLite, Realm
+- **iOS Geliştirme:** SwiftUI, UIKit
+- **Veritabanı:** Core Data, SQLite
 - **Versiyon Kontrol:** Git, GitHub
-- **CI/CD:** GitHub Actions, Bitrise
-- **Test:** XCTest, UI Testing
 - **Diğer:** RESTful API, JSON, Firebase, App Store Connect
 
 ---
