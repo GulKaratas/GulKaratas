@@ -33,11 +33,9 @@ Merhaba! Ben **[Gül Karataş]**, bir yazılım mühendisiyim ve iOS uygulama ge
 ### 🔗 Socials
 
 <p align="center">
-  <a href="https://www.instagram.com/your-instagram-profile" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+ 
   <a href="https://www.linkedin.com/in/g%C3%BCl-karata%C5%9F-29a210263/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://medium.com/@glserenkarts" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="https://twitter.com/your-twitter-profile" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://www.youtube.com/your-youtube-channel" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
 <p align="center">
