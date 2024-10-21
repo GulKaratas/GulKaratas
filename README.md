@@ -41,6 +41,4 @@ Merhaba! Ben Gül Karataş, bir yazılım mühendisiyim ve iOS uygulama gelişti
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username
 
----
 
-<p align="center">GitHub profilime göz attığın için teşekkür ederim! 😊</p>
