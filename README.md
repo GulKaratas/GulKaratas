@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, Ben Gül Karataş</h1>
-<h3 align="center">Yazılım Mühendisi | iOS Developer Intern </h3>
+<h3 align="center">Yazılım Mühendisi | Software Engineer / iOS Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kullanici-adin&label=Profil%20Ziyaret&color=0e75b6&style=flat" alt="kullanici-adin" />
