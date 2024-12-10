@@ -12,9 +12,8 @@
 
 Merhaba! Ben Gül Karataş, yazılım mühendisiyim ve iOS uygulama geliştirme alanında kendimi geliştiriyorum.Aynı zamanda yazılım mimarileri ve mobil uygulama performans optimizasyonu konularına da ilgi duyuyorum.
 
-- 🌱 Şu anda **SwiftUIKIT** ve **SwiftUI** üzerinde çalışıyorum.
-- 💼 Hedefim, **App Store**'a başarılı projeler yüklemek ve mobil dünyada fark yaratmak.
-- 💬 Soruların olursa bana [glserenkarts@gmail.com](mailto:glserenkarts@gmail.com) ulaşabilirsin.
+-  Şu anda **SwiftUIKIT** ve **SwiftUI** üzerinde çalışıyorum.
+-  Soruların olursa bana [glserenkarts@gmail.com](mailto:glserenkarts@gmail.com) ulaşabilirsin.
 
 ---
 
