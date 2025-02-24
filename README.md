@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, Ben Gül Karataş</h1>
-<h3 align="center">Software Engineer  | iOS Developer </h3>
+<h3 align="center">Software Engineer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kullanici-adin&label=Profil%20Ziyaret&color=0e75b6&style=flat" alt="kullanici-adin" />
@@ -10,9 +10,9 @@
 
 ### 📱 Hakkımda 
 
-Merhaba! Ben Gül Karataş, yazılım mühendisiyim ve iOS uygulama geliştirme alanında kendimi geliştiriyorum.Aynı zamanda yazılım mimarileri ve mobil uygulama performans optimizasyonu konularına da ilgi duyuyorum.
+Merhaba! Ben Gül Karataş, yazılım mühendisiyim.
 
--  Şu anda **SwiftUIKIT** ve **SwiftUI** üzerinde çalışıyorum.
+-  Şu anda **Node.js** ve üzerinde çalışıyorum.
 -  Soruların olursa bana [glserenkarts@gmail.com](mailto:glserenkarts@gmail.com) ulaşabilirsin.
 
 ---
