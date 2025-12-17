@@ -37,9 +37,7 @@ Merhaba! Ben Gül Karataş, yazılım mühendisiyim.
   <a href="https://medium.com/@glserenkarts" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GulKaratas&theme=radical" alt="GitHub Streak" />
-</p>
+
 
 
 
