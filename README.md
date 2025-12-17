@@ -38,6 +38,8 @@ Merhaba! Ben Gül Karataş, yazılım mühendisiyim.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GulKaratas&theme=radical" alt="GitHub Streak" />
+</p>
+
 
 
