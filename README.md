@@ -12,7 +12,7 @@
 
 Merhaba! Ben Gül Karataş, yazılım mühendisiyim.
 
--  Şu anda **Node.js** ve **React** üzerinde çalışıyorum.
+-  Şu anda **.Net** ve **React** üzerinde çalışıyorum.
 -  Soruların olursa bana [glserenkarts@gmail.com](mailto:glserenkarts@gmail.com) ulaşabilirsin.
 
 ---
