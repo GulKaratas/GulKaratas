@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF61D8&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Universe+%F0%9F%8C%8C;Building+modern+web+applications+%F0%9F%9A%80;Turning+ideas+into+reality+%E2%9C%A8;Always+learning%2C+always+creating+%F0%9F%92%96" alt="Typing SVG" />
 </p>
----
 
 ## 🌈 About Me
 <img
