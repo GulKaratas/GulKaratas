@@ -15,9 +15,12 @@
 ---
 
 ## 🌈 About Me
-
-<img align="right" alt="Coding animation" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
+<img
+  align="right"
+  alt="Lisa Simpson using a computer"
+  width="250"
+  src="https://media1.tenor.com/m/E7QxmVz22ugAAAAd/estudar-computador.gif"
+/>
 - 🚀 I'm a Software Engineer passionate about building modern applications.
 - 💜 Currently working with **.NET** and **React**.
 - 🧩 I enjoy turning complex problems into clean, user-friendly solutions.
@@ -48,9 +51,7 @@
 </p>
 
 ---
-
-## 🧊 My 3D Contribution Calendar
-
+<!-- 3D Contribution Calendar -->
 <p align="center">
   <img
     src="./profile-3d-contrib/profile-green-animate.svg"
@@ -63,10 +64,7 @@
   <i>Every contribution is another block in my developer journey! 🧱✨</i>
 </p>
 
----
-
-## 🐍 Watch My Contributions Grow!
-
+<!-- Contribution Snake -->
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/GulKaratas/GulKaratas/output/github-contribution-grid-snake-dark.svg"
@@ -74,6 +72,7 @@
     width="100%"
   />
 </p>
+
 ---
 
 ## 🌐 Let's Connect!
@@ -92,12 +91,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GulKaratas&label=Profile%20Visitors&color=ff61d8&style=for-the-badge" alt="Profile views"/>
-</p>
-
 <h3 align="center">💫 "Dream in code. Build with passion. Keep growing." 💫</h3>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,50:E100FF,100:7F00FF&height=120&section=footer" width="100%" alt="Footer banner"/>
-</p>
+
