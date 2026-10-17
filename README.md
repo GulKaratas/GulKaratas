@@ -1,9 +1,4 @@
  <h1 align="center">✨ Hey there, I'm Gül Karataş! 👋</h1>
-
-<h3 align="center">
-  💻 Software Engineer | .NET & React Developer
-</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF61D8&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Universe+%F0%9F%8C%8C;Building+modern+web+applications+%F0%9F%9A%80;Turning+ideas+into+reality+%E2%9C%A8;Always+learning%2C+always+creating+%F0%9F%92%96" alt="Typing SVG" />
 </p>
@@ -12,6 +7,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00DBDE&height=180&section=header&text=Code%20Create%20Repeat&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Animated banner"/>
 </p>
 
+<h3 align="center">
+  💻 Software Engineer | .NET & React Developer
+</h3>
 ---
 
 ## 🌈 About Me
