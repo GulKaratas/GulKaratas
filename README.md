@@ -25,16 +25,11 @@
 <br clear="right"/>
 
 ---
-
-## 🛠️ Tech Universe
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,html,css,bootstrap,tailwind,redux,nodejs,postgres,git,github,vscode,figma&perline=8" alt="Technology icons"/>
 </p>
 
 ---
-
-## 📊 My GitHub Universe
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=GulKaratas&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true" alt="GitHub Stats"/>
